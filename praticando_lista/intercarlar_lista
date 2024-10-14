@@ -1,0 +1,12 @@
+
+lista1 = [1, 3, 5]
+lista2 = [2, 4, 6]
+
+lista_nova = []
+for item1, item2 in zip(lista1,lista2): #interando sobre as duas lista criando variaveis temporarias
+    #item1,item2 usando o zip para deixar tudo em ordem
+    lista_nova.append(item1) #adicionando intem1 a lista_nova
+    lista_nova.append(item2)#adicionando intem2 a lista nova
+print(lista_nova)#imprimindo o resultado
+
+# Saída esperada: [1, 2, 3, 4, 5, 6]
