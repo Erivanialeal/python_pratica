@@ -4,6 +4,7 @@
 
 # Estrutura do Repositório.
 
+
 | Diretório               | Descrição                                |
 |-------------------------|------------------------------------------|
 | `praticando_args_kwargs/`     | Praticando variáveis de argumento em Python      |
