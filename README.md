@@ -9,10 +9,10 @@
 | Diretório               | Descrição                                |
 |-------------------------|------------------------------------------|
 | `praticando_args_kwargs/`     | Praticando variáveis de argumento em Python      |
-| `praticando_conjuntos/` | Desafios que ajuda a entender conjuntos |
-| `praticando_dicionarios/`   | Desafios para entender a manipular dicionários |
+| `praticando_conjuntos/` | Desafios que ajudam a entender conjuntos |
+| `praticando_dicionarios/`   | Desafios para entender e manipular dicionários |
 | `praticando_lista/`             | Desafios para praticar listas em Python   |
-|`praticando tuplas/` | Desafios para exercitar tuplas |
+|`praticando_tuplas/` | Desafios para exercitar tuplas |
 |`README.md/` | Informações do repositorio |
 
 
